@@ -1,6 +1,6 @@
 
 
-# Olá! Eu sou a Lorrany 👋🏻
+# Olá! Eu a Lorrany 👋🏻
 
 🎓 Estudante de Desenvolvimento de Sistemas no SENAC  
 
