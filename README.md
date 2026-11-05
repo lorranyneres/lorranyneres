@@ -94,5 +94,6 @@ Gosto de aprender na prática, desenvolver minhas habilidades e conhecer novas t
 ---
 ## 🐍 Minhas contribuições
 ![Snake animation](https://raw.githubusercontent.com/lorranyneres/lorranyneres/output/github-contribution-grid-snake.svg)
+
 ✨ Obrigada por visitar meu perfil!
  
