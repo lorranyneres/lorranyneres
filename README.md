@@ -81,6 +81,7 @@ Gosto de aprender na prática, desenvolver minhas habilidades e conhecer novas t
 - Inglês
 
 - Francês
+- C#
 
 ---
 
