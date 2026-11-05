@@ -88,7 +88,7 @@ Gosto de aprender na prática, desenvolver minhas habilidades e conhecer novas t
 
 📧 **E-mail:** neres.a.lorrany@gmail.com
 
-💼 **LinkedIn:** [Lorrany Neres](SEU_LINK_DO_LINKEDIN)
+💼 **LinkedIn:** [Lorrany Neres](https://www.linkedin.com/in/lorrany-neres-)
 
 ---
 
