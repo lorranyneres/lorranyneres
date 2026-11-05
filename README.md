@@ -27,7 +27,7 @@ Gosto de aprender na prática, desenvolver minhas habilidades e conhecer novas t
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
 ---
 
 ## 🛠️ Ferramentas
